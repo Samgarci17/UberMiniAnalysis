@@ -23,17 +23,17 @@ The vehicle cancellation rate is proportional to the booking percentage by vehic
 
 
 ### Customer Cancellations
+<p align="center">
+  <img width="500" alt="Reasons for Customer Cancellation" src="https://github.com/user-attachments/assets/828dfeb4-8c19-407b-9d49-5ae5af1be7d7" />
+</p>
 
-<img width="600" height="371" alt="Reasons for Customer Cancellation" src="https://github.com/user-attachments/assets/828dfeb4-8c19-407b-9d49-5ae5af1be7d7" />
+<img width="402" height="251" alt="Damaged AC" src="https://github.com/user-attachments/assets/446d4f65-0348-45e4-9927-e54886e3aecb" align="left"/>
 
+<img width="481" height="297" alt="Change of Plans" src="https://github.com/user-attachments/assets/db9ff3a6-254f-4dfe-95e3-502d80c4f43a" align="right" />
 
-<img width="402" height="251" alt="Damaged AC" src="https://github.com/user-attachments/assets/446d4f65-0348-45e4-9927-e54886e3aecb" />
+<img width="481" height="297" alt="Driver Not Moving" src="https://github.com/user-attachments/assets/16fdb2b9-5cb3-48ac-b2f1-2ef382c09064" align="left" />
 
-<img width="481" height="297" alt="Change of Plans" src="https://github.com/user-attachments/assets/db9ff3a6-254f-4dfe-95e3-502d80c4f43a" />
-
-<img width="481" height="297" alt="Driver Not Moving" src="https://github.com/user-attachments/assets/16fdb2b9-5cb3-48ac-b2f1-2ef382c09064" />
-
-<img width="481" height="297" alt="Wrong Address" src="https://github.com/user-attachments/assets/295633e5-c72d-433b-b53a-c25611d400ec" />
+<img width="481" height="297" alt="Wrong Address" src="https://github.com/user-attachments/assets/295633e5-c72d-433b-b53a-c25611d400ec" align="right" />
 
 
 
