@@ -26,13 +26,14 @@ The vehicle cancellation rate is proportional to the booking percentage by vehic
 <p align="center">
   <img width="500" alt="Reasons for Customer Cancellation" src="https://github.com/user-attachments/assets/828dfeb4-8c19-407b-9d49-5ae5af1be7d7" />
 </p>
-
-| Left Image Description | Right Image Description |
-| :---: | :---: |
-| <img width="400" alt="Damaged AC" src="https://github.com/user-attachments/assets/446d4f65-0348-45e4-9927-e54886e3aecb" /> | <img width="400" alt="Change of Plans" src="https://github.com/user-attachments/assets/db9ff3a6-254f-4dfe-95e3-502d80c4f43a" /> |
-| Subtitle for Image 1 | Subtitle for Image 2 |
-| <img width="400" alt="Driver Not Moving" src="https://github.com/user-attachments/assets/16fdb2b9-5cb3-48ac-b2f1-2ef382c09064" /> | <img width="400" alt="Wrong Address" src="https://github.com/user-attachments/assets/295633e5-c72d-433b-b53a-c25611d400ec" /> |
-
+<div align="center">
+  | Left Image Description | Right Image Description |
+  | :---: | :---: |
+  | <img width="400" alt="Damaged AC" src="https://github.com/user-attachments/assets/446d4f65-0348-45e4-9927-e54886e3aecb" /> | <img width="400" alt="Change of Plans" src="https://github.com/user-attachments/assets/db9ff3a6-254f-4dfe-95e3-502d80c4f43a" /> |
+  | Subtitle for Image 1 | Subtitle for Image 2 |
+  | <img width="400" alt="Driver Not Moving" src="https://github.com/user-attachments/assets/16fdb2b9-5cb3-48ac-b2f1-2ef382c09064" /> | <img width="400" alt="Wrong Address" src="https://github.com/user-attachments/assets/295633e5-c72d-433b-b53a-c25611d400ec" /> |
+</div>
+  
 
 
 ### Driver Cancellations
