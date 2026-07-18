@@ -9,15 +9,17 @@ This analysis aims to showcase the leading causes for trip cancellations by driv
 
 ## Dataset
 
-- **Source:** [[Uber Data Analytics](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)]
+- **Source:** [Uber Data Analytics](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
 - **Size:** [6000]
 ## Analysis
 
 The vehicle cancellation rate is proportional to the booking percentage by vehicle type, indicating that generally no single vehicle type receives complaints at a higher rate.
-<img width="600" height="371" alt="Bookings by Vehicle Type" src="https://github.com/user-attachments/assets/3308b4d1-465b-458b-82c1-05488babadf6" />
-
-<img width="600" height="371" alt="Cancellation Total by Vehicle" src="https://github.com/user-attachments/assets/c62d74c3-40d5-4f37-971d-3174b930f970" />
-
+<p align="center">
+  <img width="500"  alt="Bookings by Vehicle Type" src="https://github.com/user-attachments/assets/3308b4d1-465b-458b-82c1-05488babadf6" />
+</p>
+<p align="center">
+<img width="500"  alt="Cancellation Total by Vehicle" src="https://github.com/user-attachments/assets/c62d74c3-40d5-4f37-971d-3174b930f970" />
+</p>
 
 
 ### Customer Cancellations
